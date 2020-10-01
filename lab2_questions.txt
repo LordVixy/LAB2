@@ -1,0 +1,4 @@
+1. 	/cd lab2
+	cat > BEREZNYAK.txt :: creer ficher txt
+	vim BEREZNYAK.txt : enter fichier txt
+	[ESC] key to save and SHIFT+Z+Z to get back to terminal	
