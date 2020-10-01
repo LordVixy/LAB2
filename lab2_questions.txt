@@ -1,4 +1,8 @@
 1. 	/cd lab2
 	cat > BEREZNYAK.txt :: creer ficher txt
 	vim BEREZNYAK.txt : enter fichier txt
-	[ESC] key to save and SHIFT+Z+Z to get back to terminal	
+	[ESC] key to save and SHIFT+Z+Z to get back to terminal
+3.	git init
+4.	git status	
+5.	git add BEREZNYAK.txt
+6.	git commit -m "LAB2.V1"
